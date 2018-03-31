@@ -58,6 +58,8 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
     ).replace('White Fang Lieutenant', 'ホワイト・ファングの中尉'
     ).replace('Ilia Amitola', 'イリア・アミトーラ'
     ).replace('Sienna Khan', 'シエナ・カーン'
+    ).replace('Corsac Albain', 'コサック・アルベイン'
+    ).replace('Fennec Albain', 'フェネック・アルベイン'
 
     ).replace('Cardin Winchester', 'カーディン・ウィンチェスター'
     ).replace('Russel Thrush', 'ラッセル・スラッシュ'
