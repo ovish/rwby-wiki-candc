@@ -27,7 +27,7 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
 
     ).replace('James Ironwood', 'ジェームズ・アイアンウッド'
     ).replace('Winter Schnee', 'ウィンター・シュニー'
-    ).replace('Jason Douglas', 'ジャック・シュニー'
+    ).replace('Jacques Schnee', 'ジャック・シュニー'
     ).replace('Whitley Schnee', 'ウィットリー・シュニー'
     ).replace('Klein Sieben', 'クライン・ジーベン'
 
