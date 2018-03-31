@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# -*- coding: utf-8 -*-
+# -*- coding, utf-8 -*-
 
 import re
 import sys
@@ -10,65 +10,60 @@ with open('j0-all.md', 'r') as f:
     strJpn = f.read()
 
 # maketranseを使う
+result = strJpn.replace(
+    'Ruby Rose', 'ルビー・ローズ').replace(
+    'Weiss Schnee', 'ワイス・シュニー').replace(
+    'Blake Belladonna', 'ブレイク・ベラドンナ').replace(
+    'Yang Xiao Long', 'ヤン・シャオロン').replace(
 
-table = str.maketrans({
-    'Ruby Rose': 'ルビー・ローズ',
-    'Weiss Schnee': 'ワイス・シュニー',
-    'Blake Belladonna': 'ブレイク・ベラドンナ',
-    'Yang Xiao Long': 'ヤン・シャオロン',
+    'Jaune Arc', 'ジョーン・アーク').replace(
+    'Nora Valkyrie', 'ノーラ・ヴァルキリー').replace(
+    'Pyrrha Nikos', 'ピュラ・ニコス').replace(
+    'Lie Ren', 'ライ・レン').replace(
 
-    'Jaune Arc': 'ジョーン・アーク',
-    'Nora Valkyrie': 'ノーラ・ヴァルキリー',
-    'Pyrrha Nikos': 'ピュラ・ニコス',
-    'Lie Ren': 'ライ・レン',
+    'Ozpin', 'オズピン').replace(
+    'Glynda Goodwitch', 'グリンダ・グッドウィッチ').replace(
+    'Peter Port', 'ピーター・ポート').replace(
+    'Bartholomew Oobleck', 'バーソロミュー・ウーブレック').replace(
 
-    'Ozpin': 'オズピン',
-    'Glynda Goodwitch': 'グリンダ・グッドウィッチ',
-    'Peter Port': 'ピーター・ポート',
-    'Bartholomew Oobleck': 'バーソロミュー・ウーブレック',
+    'James Ironwood', 'ジェームズ・アイアンウッド').replace(
+    'Winter Schnee', 'ウィンター・シュニー').replace(
+    'Penny Polendina', 'ペニー・ポレンディーナ').replace(
 
-    'James Ironwood': 'ジェームズ・アイアンウッド',
-    'Winter Schnee': 'ウィンター・シュニー',
-    'Penny Polendina': 'ペニー・ポレンディーナ',
+    'Summer Rose', 'サマー・ローズ').replace(
+    'Taiyang Xiao Long', 'タイヤン・シャオロン').replace(
+    'Raven Branwen', 'レイヴン・ブランウェン').replace(
+    'Qrow Branwen', 'クロウ・ブランウェン').replace(
 
-    'Summer Rose': 'サマー・ローズ',
-    'Taiyang Xiao Long': 'タイヤン・シャオロン',
-    'Raven Branwen': 'レイヴン・ブランウェン',
-    'Qrow Branwen': 'クロウ・ブランウェン',
+    'Salem', 'セイラム').replace(
+    'Arthur Watts', 'アーサー・ワッツ').replace(
+    'Hazel Rainart', 'ヘイゼル・レイナート').replace(
+    'Tyrian Callows', 'ティリアン・キャロウズ').replace(
 
-    'Salem': 'セイラム',
-    'Arthur Watts': 'アーサー・ワッツ',
-    'Hazel Rainart': 'ヘイゼル・レイナート',
-    'Tyrian Callows': 'ティリアン・キャロウズ',
+    'Cinder Fall', 'シンダー・フォール').replace(
+    'Roman Torchwick', 'ローマン・トーチウィック').replace(
+    'Emerald Sustrai', 'エメラルド・サストライ').replace(
+    'Mercury Black', 'マーキュリー・ブラック').replace(
+    'Neopolitan', 'ニオポリタン').replace(
 
-    'Cinder Fall': 'シンダー・フォール',
-    'Roman Torchwick': 'ローマン・トーチウィック',
-    'Emerald Sustrai': 'エメラルド・サストライ',
-    'Mercury Black': 'マーキュリー・ブラック',
-    'Neopolitan': 'ニオポリタン',
+    'Adam Taurus', 'アダム・トーラス').replace(
+    'White Fang Lieutenant', 'ホワイト・ファングの中尉').replace(
 
-    'Adam Taurus': 'アダム・トーラス',
-    'White Fang Lieutenant': 'ホワイト・ファングの中尉',
+    'Cardin Winchester', 'カーディン・ウィンチェスター').replace(
+    'Russel Thrush', 'ラッセル・スラッシュ').replace(
+    'Dove Bronzewing', 'ダヴ・ブロンズウィング').replace(
+    'Sky Lark', 'スカイ・ラーク').replace(
 
-    'Cardin Winchester': 'カーディン・ウィンチェスター',
-    'Russel Thrush': 'ラッセル・スラッシュ',
-    'Dove Bronzewing': 'ダヴ・ブロンズウィング',
-    'Sky Lark': 'スカイ・ラーク',
+    'Coco Adel', 'ココ・アデル').replace(
+    'Fox Alistair', 'フォックス・アリステア').replace(
+    'Velvet Scarlatina', 'ヴェルヴェット・スカーラティーナ').replace(
+    'Yatsuhashi Daichi', 'ヤツハシ・ダイチ').replace(
 
-    'Coco Adel': 'ココ・アデル',
-    'Fox Alistair': 'フォックス・アリステア',
-    'Velvet Scarlatina': 'ヴェルヴェット・スカーラティーナ',
-    'Yatsuhashi Daichi': 'ヤツハシ・ダイチ',
+    'Sun Wukong', 'サン・ウーコン').replace(
+    'Scarlet David', 'スカーレット・デイビッド').replace(
+    'Sage Ayana', 'セージ・アヤナ').replace(
+    'Neptune Vasilias', 'ネプチューン・ヴァシリアス')
 
-    'Sun Wukong': 'サン・ウーコン',
-    'Scarlet David': 'スカーレット・デイビッド',
-    'Sage Ayana': 'セージ・アヤナ',
-    'Neptune Vasilias': 'ネプチューン・ヴァシリアス'
-
-
-})
-
-result = strJpn.translate(table)
 
 with open('result.md', 'w') as f:
         f.write(result)
