@@ -18,17 +18,17 @@ __TOC__
 |[[File:Monty4ec4fdb8ab6ca.jpg|100px]]
 |[[Monty Oum]] †
 |原作者、前監督、 動画、 脚本、 声優
-|''RWBY''の原作者、 以前の[[Lie Ren]]の声
+|''RWBY''の原作者、 以前の[[ライ・レン]]の声
 |-
 |[[File:Miles4efe80e86f95ft.jpg|100px]]
 |[[Miles Luna]]
 |脚本、 声優
-|筆頭 脚本 、 [[Jaune Arc]]
+|筆頭 脚本 、 [[ジョーン・アーク]]
 |-
 |[[File:KerryShawcross.png|100px]]
 |[[Kerry Shawcross]]
 |脚本、 監督 、 声優
-|''RWBY''の筆頭 脚本、 [[Neptune Vasilias]]
+|''RWBY''の筆頭 脚本、 [[ネプチューン・ヴァシリアス]]
 |-
 |[[File:MattHullum.png|100px]]
 |[[Matt Hullum]]
@@ -38,22 +38,22 @@ __TOC__
 |[[File:Burnie.png|100px]]
 |[[Burnie Burns]]
 |制作責任者 、 声優
-|Rooster Teethの製作監督、 [[Vale Police Department|Detective #1]] 、 [[Taiyang Xiao Long]]
+|Rooster Teethの製作監督、 [[Vale Police Department|Detective #1]] 、 [[タイヤン・シャオロン]]
 |-
 |[[File:Guest4fd7c9c774fa8.jpg|100px]]
 |[[Kathleen Zuelch]]
 |制作責任者
-|制作責任者 、 [[Glynda Goodwitch]]
+|制作責任者 、 [[グリンダ・グッドウィッチ]]
 |-
 |[[File:RWBY_Torchwick_2_800_Silly_1.jpg|100px]]
 |[[Gray G. Haddock]]
 |制作責任者 、 声優
-|制作責任者 、 [[Roman Torchwick]]
+|制作責任者 、 [[ローマン・トーチウィック]]
 |-
 |[[File:Shanenewville.jpg|100px]]
 |[[Shane Newville]]
 |動画 、 声優
-|以前の 動画 、 以前の [[Russel Thrush]]
+|以前の 動画 、 以前の [[ラッセル・スラッシュ]]
 |-
 |[[File:JordanCwierz.jpg|100px]]
 |[[Jordan Cwierz]]
@@ -123,122 +123,122 @@ __TOC__
 |[[File:Lindsay.jpg|100px]]
 |[[Lindsay Jones]]
 |声優
-|[[Ruby Rose]]
+|[[ルビー・ローズ]]
 |-
 |[[File:Kara May2013.jpg|100px]]
 |[[Kara Eberle]]
 |声優
-|[[Weiss Schnee]]
+|[[ワイス・シュニー]]
 |-
 |[[File:Arryn.jpg|100px]]
 |[[Arryn Zech]]
 |声優
-|[[Blake Belladonna]]
+|[[ブレイク・ベラドンナ]]
 |-
 |[[File:Barbara May2013.jpg|100px]]
 |[[Barbara Dunkelman]]
 |声優
-|[[Yang Xiao Long]]
+|[[ヤン・シャオロン]]
 |-
 |[[File:Samantha Ireland.png|100px]]
 |[[Samantha Ireland|Samantha Irel、]]
 |声優
-|[[Nora Valkyrie]]
+|[[ノーラ・ヴァルキリー]]
 |-
 |[[File:Jen Brown 2.0.png|100px]]
 |[[Jen Brown]]
 |声優
-|[[Pyrrha Nikos]]
+|[[ピュラ・ニコス]]
 |-
 |[[File:Tumblr m5jnsmiPx11qbz2c6.png|100px]]
 |[[Garrett Hunter]]
 |声優
-|[[Adam Taurus]]
+|[[アダム・トーラス]]
 |-
 |[[File:Jack AHWU.png|100px]]
 |[[Jack Pattillo]]
 |声優
-|[[Junior Xiong]]
+|[[ジュニア・ション]]
 |-
 |[[File:Margaret Tominey.PNG|100px]]
 |[[Maggie Tominey]]
 |声優
-|[[Melanie Malachite|Melanie]] 、 [[Miltia Malachite]] 、 [[Minor Characters#Deery|Deery]]
+|[[メラニー・マラカイト|Melanie]] 、 [[ミルシャ・マラカイト]] 、 [[Minor Characters#Deery|Deery]]
 |-
 |[[File:Shannon.png|100px]]
 |[[Shannon McCormick]]
 |声優
-|[[Ozpin]]
+|[[オズピン]]
 |-
 |[[File:Ryan50ba8afb9fedf.jpg|100px]]
 |[[Ryan Haywood]]
 |声優
-|[[Peter Port]]
+|[[ピーター・ポート]]
 |-
 |[[File:Adamellis.jpg|100px]]
 |[[Adam Ellis]]
 |声優
-|[[Cardin Winchester]] 、 [[Tukson]]
+|[[カーディン・ウィンチェスター]] 、 [[タクソン]]
 |-
 |[[File:Caiti twitter.jpeg|100px]]
 |[[Caiti Ward]]
 |声優
-|[[Velvet Scarlatina]]
+|[[ヴェルヴェット・スカーラティーナ]]
 |-
 |[[File:Joel Heyman.jpg|100px]]
 |[[Joel Heyman]]
 |声優
-|[[Bartholomew Oobleck]] 、 Detective #2
+|[[バーソロミュー・ウーブレック]] 、 Detective #2
 |-
 |[[File:Ah Michael.jpg|100px]]
 |[[Michael Jones]]
 |声優
-|[[Sun Wukong]]
+|[[サン・ウーコン]]
 |-
 |[[File:Taylor Pelto.jpg|100px]]
 |[[Taylor McNee]]
 |環境美術 、 声優
-|環境美術 、 [[Penny Polendina]]
+|環境美術 、 [[ペニー・ポレンディーナ]]
 |-
 |[[File:Jessica Nigri.png|100px]]
 |[[Jessica Nigri]]
 |声優
-|[[Cinder Fall]]
+|[[シンダー・フォール]]
 |-
 |[[File:Katie Newville.png|100px]]
 |[[Katie Newville]]
 |声優
-|[[Emerald Sustrai]]
+|[[エメラルド・サストライ]]
 |-
 |[[Image:JJ Castillo.jpg|100px]]
 |[[J.J. Castillo|J. J. Castillo]]
 |声優
-|以前の [[Mercury Black]]
+|以前の [[マーキュリー・ブラック]]
 |-
 |[[File:Ashley Jenkins Image.jpg|100px]]
 |[[Ashley Jenkins]]
 |声優
-|[[Coco Adel]]
+|[[ココ・アデル]]
 |-
 |[[Image:JasonRose.PNG|100px]]
 |[[Jason Rose]]
 |声優
-|[[James Ironwood]]
+|[[ジェームズ・アイアンウッド]]
 |-
 |[[File:William Orendorff.png|100px]]
 |[[William Orendorff]]
 |声優
-|[[Grimm]]の鳴き声 、 [[Hazel Rainart]]
+|[[グリム]]の鳴き声 、 [[ヘイゼル・レイナート]]
 |-
 |[[File:Neath Oum.jpg|100px]]
 |[[Neath Oum]]
 |声優
-|以前の Lie Ren
+|以前の ライ・レン
 |-
 |[[File:Jen-taylor.png|100px]]
 |[[Jen Taylor]]
 |声優
-|[[Salem]]
+|[[セイラム]]
 |-
 |[[File:Dillon Gu.jpg|100px]]
 |[[Dillon Gu]]
@@ -248,57 +248,57 @@ __TOC__
 |[[File:Anna Hullum Twitter.jpeg|100px]]
 |[[Anna Hullum]]
 |声優
-|[[Raven Branwen]]
+|[[レイヴン・ブランウェン]]
 |-
 |[[File:Yssa Badiola.jpg|100px]]
 |[[Yssa Badiola]]
 |声優
-|[[Ciel Soleil]]
+|[[シエル・ソレイユ]]
 |-
 |[[File:VicMignogna.jpg|100px]]
 |[[Vic Mignogna]]
 |声優
-|[[Qrow Branwen]]
+|[[クロウ・ブランウェン]]
 |-
 |[[File:ElizabethMaxwell.jpg|100px]]
 |[[Elizabeth Maxwell]]
 |声優
-|[[Winter Schnee]]
+|[[ウィンター・シュニー]]
 |-
 |[[File:Joe Macdonald v2.png|100px]]
 |[[Joe MacDonald]]
 |動画 、 声優
-|[[Yatsuhashi Daichi]]
+|[[ヤツハシ・ダイチ]]
 |-
 |[[File:Josh Ornelas.jpg|100px]]
 |[[Josh Ornelas]]
 |声優
-|[[Sage Ayana]]
+|[[セージ・アヤナ]]
 |-
 |[[File:Gavin Free.png|100px]]
 |[[Gavin Free]]
 |声優
-|[[Scarlet David]]
+|[[スカーレット・デイビッド]]
 |-
 |[[File:Yuri Lowenthal.jpg|100px]]
 |[[Yuri Lowenthal]]
 |声優
-|以前の [[Mercury Black]]
+|以前の [[マーキュリー・ブラック]]
 |-
 |[[File:Christopher Sabat.jpg|100px]]
 |[[Christopher Sabat]]
 |声優
-|[[Arthur Watts]]
+|[[アーサー・ワッツ]]
 |-
 |[[File:JoshGrelle.jpg|100px]]
 |[[Josh Grelle]]
 |声優
-|[[Tyrian Callows]]
+|[[ティリアン・キャロウズ]]
 |-
 |[[File:JMichaelTatum.jpg|100px]]
 |[[J. Michael Tatum]]
 |声優
-|[[Klein Sieben]]
+|[[クライン・ジーベン]]
 |-
 |[[File:Alejandro Saab Profile.jpg|100px]]
 |[[Alejandro Saab|Alej、ro Saab]]
@@ -308,27 +308,27 @@ __TOC__
 |[[File:HowardWang.png|100px]]
 |[[Howard Wang]]
 |声優
-|[[Whitley Schnee]]
+|[[ウィットリー・シュニー]]
 |-
 |[[File:JasonDouglas.jpg|100px]]
-|[[Jason Douglas]]
+|[[ジャック・シュニー]]
 |声優
 |[[Jacques Schnee]]
 |-
 |[[File:Tara Platt.jpg|100px]]
 |[[Tara Platt]]
 |声優
-|[[Kali Belladonna]]
+|[[カーリー・ベラドンナ]]
 |-
 |[[File:Kent Williams 4.png|100px]]
 |[[Kent Williams]]
 |声優
-|[[Ghira Belladonna]]
+|[[ギラ・ベラドンナ]]
 |-
 |[[File:AaronDismuke2.jpg|100px]]
 |[[Aaron Dismuke]]
 |声優
-|[[Oscar Pine]]
+|[[オスカー・パイン]]
 |-
 |[[File:Mike McFarland.jpg|100px]]
 |[[Mike McFarland|Mike McFarl、]]
@@ -343,7 +343,7 @@ __TOC__
 |[[File:Cherami.jpg|100px]]
 |[[Cherami Leigh Kuehn]]
 |声優
-|[[Ilia Amitola]]
+|[[イリア・アミトーラ]]
 |-
 |[[File:Scott Frerichs.jpg|100px]]
 |[[Scott Frerichs]]
@@ -365,20 +365,20 @@ __TOC__
 |声優
 |[[Minor Characters#An Ren|An Ren]]
 |-
-|[[File:Amber Lee Connors.jpg|100px]]
-|[[Amber Lee Connors]]
+|[[File:アンバー Lee Connors.jpg|100px]]
+|[[アンバー Lee Connors]]
 |声優
-|[[Vernal]]、 [[Minor Characters#Businesswoman|Businesswoman]]、 [[Minor Characters#Unnamed Reporters|Reporter 02]] 、 [[Minor Characters#Three Boys|Short Boy]]
+|[[ヴァーナル]]、 [[Minor Characters#Businesswoman|Businesswoman]]、 [[Minor Characters#Unnamed Reporters|Reporter 02]] 、 [[Minor Characters#Three Boys|Short Boy]]
 |-
 |[[File:Apphia Yu.png|100px]]
 |[[Apphia Yu]]
 |声優
-|[[Lie Ren|Young Ren]]
+|[[ライ・レン|Young Ren]]
 |-
 |[[File:Kristen McGuire.jpg|100px]]
 |[[Kristen McGuire]]
 |声優
-|[[Nora Valkyrie|Young Nora]]
+|[[ノーラ・ヴァルキリー|Young Nora]]
 |-
 |[[File:Bruce Carey.jpg|100px]]
 |[[Bruce Carey]]
@@ -413,12 +413,12 @@ __TOC__
 |[[File:Daman Mills.jpg|100px]]
 |[[Daman Mills]]
 |声優
-|[[Leonardo Lionheart]]
+|[[レオナルド・ライオンハート]]
 |-
 |[[File:Monica Rial.jpg|100px]]
 |[[Monica Rial]]
 |声優
-|[[Sienna Khan]]
+|[[シエナ・カーン]]
 |}
 
 ==日本語でのキャスト==
@@ -433,202 +433,202 @@ __TOC__
 |[[File:Saori Hayami Profile Picture.jpeg|100px]]
 |[[Saori Hayami]]
 |声優
-|以前の [[Ruby Rose]]
+|以前の [[ルビー・ローズ]]
 |-
 |[[File:Yoko Hikasa Profile Picture.jpg|100px]]
 |[[Yōko Hikasa]]
 |声優
-|以前の [[Weiss Schnee]]
+|以前の [[ワイス・シュニー]]
 |-
 |[[File:Yu Shimamura Profile Picture.jpg|100px]]
 |[[Yū Shimamura]]
 |声優
-|以前の [[Blake Belladonna]]
+|以前の [[ブレイク・ベラドンナ]]
 |-
 |[[File:Ami Koshimizu Profile Picture.jpg|100px]]
 |[[Ami Koshimizu]]
 |声優
-|以前の [[Yang Xiao Long]]
+|以前の [[ヤン・シャオロン]]
 |-
 |[[File:Hiro Shimono.png|100px]]
 |[[Hiro Shimono]]
 |声優
-|以前の [[Jaune Arc]]
+|以前の [[ジョーン・アーク]]
 |-
 |[[File:Aya Suzuki Mako Mankanshoku.jpg|100px]]
 |[[Aya Suzaki]]
 |声優
-|以前の [[Nora Valkyrie]]、 [[Melanie Malachite|Melanie]] 、 [[Miltia Malachite]]
+|以前の [[ノーラ・ヴァルキリー]]、 [[メラニー・マラカイト|Melanie]] 、 [[ミルシャ・マラカイト]]
 |-
 |[[File:Megumi Toyoguchi.png|100px]]
 |[[Megumi Toyoguchi]]
 |声優
-|Volume 1、2、4 の[[Pyrrha Nikos]]、[[Kali Belladonna]].
+|Volume 1、2、4 の[[ピュラ・ニコス]]、[[カーリー・ベラドンナ]].
 |-
 |[[File:Soma Saito.jpg|100px]]
 |[[Sōma Saitō]]
 |声優
-|以前の [[Lie Ren]]
+|以前の [[ライ・レン]]
 |-
 |[[File:Shizuka Itō Profilepicture.jpg|100px]]
 |[[Shizuka Itō]]
 |声優
-|以前の [[Coco Adel]] 、 Volume 3の[[Pyrrha Nikos]]
+|以前の [[ココ・アデル]] 、 Volume 3の[[ピュラ・ニコス]]
 |-
 |[[File:Kazuhiko Inoue.png|100px]]
 |[[Kazuhiko Inoue]]
 |声優
-|以前の [[Ozpin]]
+|以前の [[オズピン]]
 |-
 |[[File:Masumi Asano.jpg|100px]]
 |[[Masumi Asano]]
 |声優
-|以前の [[Glynda Goodwitch]] 、 [[Minor Characters#Deery|Deery]]
+|以前の [[グリンダ・グッドウィッチ]] 、 [[Minor Characters#Deery|Deery]]
 |-
 |[[File:Masaki Terasoma Profilepicture.jpg|100px]]
 |[[Masaki Terasoma]]
 |声優
-|以前の [[James Ironwood]]
+|以前の [[ジェームズ・アイアンウッド]]
 |-
 |[[File:Subaru Kimura.jpg|100px]]
 |[[Subaru Kimura]]
 |声優
-|以前の [[Cardin Winchester]]
+|以前の [[カーディン・ウィンチェスター]]
 |-
 |[[File:Megumi Han.jpg|100px]]
 |[[Megumi Han]]
 |声優
-|以前の [[Penny Polendina]] 、 [[Velvet Scarlatina]]
+|以前の [[ペニー・ポレンディーナ]] 、 [[ヴェルヴェット・スカーラティーナ]]
 |-
 |[[File:Shinichiro Miki.jpg|100px]]
 |[[Shinichiro Miki]]
 |声優
-|以前の [[Roman Torchwick]]
+|以前の [[ローマン・トーチウィック]]
 |-
 |[[File:Yuuko Kaida Profile Picture.png|100px]]
 |[[Yūko Kaida]]
 |声優
-|以前の [[Cinder Fall]]
+|以前の [[シンダー・フォール]]
 |-
 |[[File:Tomoaki Maeno Profile Picture.png|100px]]
 |[[Tomoaki Maeno]]
 |声優
-|以前の [[Sun Wukong]]
+|以前の [[サン・ウーコン]]
 |-
 |[[File:Yoshiki Nakajima Profilepicture.jpg|100px]]
 |[[Yoshiki Nakajima]]
 |声優
-|以前の [[Neptune Vasilias]]
+|以前の [[ネプチューン・ヴァシリアス]]
 |-
 |[[File:Hikaru Midorikawa Profilepicture.jpg|100px]]
 |[[Hikaru Midorikawa]]
 |声優
-|以前の [[Mercury Black]]
+|以前の [[マーキュリー・ブラック]]
 |-
 |[[File:Marina Inoue Profilepicture.jpg|100px]]
 |[[Marina Inoue]]
 |声優
-|以前の [[Emerald Sustrai]] 、 [[Whitley Schnee]]
+|以前の [[エメラルド・サストライ]] 、 [[ウィットリー・シュニー]]
 |-
 |[[File:Yūichi Nakamura Profilepicture.jpg|100px]]
 |[[Yūichi Nakamura]]
 |声優
-|以前の [[Adam Taurus]]
+|以前の [[アダム・トーラス]]
 |-
 |[[File:Kikuko Inoue.jpg|100px]]
 |[[Kikuko Inoue]]
 |声優
-|以前の [[Salem]]
+|以前の [[セイラム]]
 |-
 |[[File:YuichiKarasuma.png|100px]]
 |[[Yuichi Karasuma]]
 |声優
-|以前の [[Bartholomew Oobleck]]
+|以前の [[バーソロミュー・ウーブレック]]
 |-
 |[[File:SoichiAbe.png|100px]]
 |[[Soichi Abe]]
 |声優
-|以前の [[Peter Port]] 、 [[Dove Bronzewing]]
+|以前の [[ピーター・ポート]] 、 [[ダヴ・ブロンズウィング]]
 |-
 |[[File:Kenyu Horiuchi.jpg|100px]]
 |[[Kenyu Horiuchi]]
 |声優
-|以前の [[Taiyang Xiao Long]]
+|以前の [[タイヤン・シャオロン]]
 |-
 |[[File:Hiroaki Hirata.jpg|100px]]
 |[[Hiroaki Hirata]]
 |声優
-|以前の [[Qrow Branwen]]
+|以前の [[クロウ・ブランウェン]]
 |-
 |[[File:Ayako Kawasumi.jpg|100px]]
 |[[Ayako Kawasumi]]
 |声優
-|以前の [[Winter Schnee]] 、 [[Amber]]
+|以前の [[ウィンター・シュニー]] 、 [[アンバー]]
 |-
 |[[File:Ami Naito.jpg|100px]]
 |[[Ami Naito]]
 |声優
-|以前の [[Arslan Altan]] 、 [[Ciel Soleil]]
+|以前の [[アルスラーン・アルタン]] 、 [[シエル・ソレイユ]]
 |-
 |[[File:Chisato Mori.jpg|100px]]
 |[[Chisato Mori]]
 |声優
-|以前の [[Dew Gayl]] 、 [[Reese Chloris]]
+|以前の [[デュー・ゲイル]] 、 [[リース・クロリス]]
 |-
 |[[File:Eiji Takeuchi.jpg|100px]]
 |[[Eiji Takeuchi]]
 |声優
-|以前の [[Nadir Shiko]]
+|以前の [[ナディール・シコ]]
 |-
 |[[File:Konomi Fujimora.jpg|100px]]
 |[[Konomi Fujimura]]
 |声優
-|以前の [[Neon Katt]]、 [[Gwen Darcy]] 、 [[Neopolitan]]
+|以前の [[ネオン・カット]]、 [[グウェン・ダーシー]] 、 [[ニオポリタン]]
 |-
 |[[File:Kijima ryuichi.jpg|100px]]
 |[[Ryuichi Kijima]]
 |声優
-|以前の [[Brawnz Ni]] 、 [[Sage Ayana]]
+|以前の [[ブロンズ・ニー]] 、 [[セージ・アヤナ]]
 |-
 |[[File:Tooru Sakurai.jpg|100px]]
 |[[Tooru Sakurai]]
 |声優
-|以前の [[Flynt Coal]]
+|以前の [[フリント・コール]]
 |-
 |[[File:KentaMiyakeProfile.jpg|100px]]
 |[[Kenta Miyake]]
 |声優
-|以前の [[Tukson]]
+|以前の [[タクソン]]
 |-
 |[[File:Akio Ootsuka Profile Picture.jpg|100px]]
 |[[Akio Ōtsuka]]
 |声優
-|以前の [[Hazel Rainart]]
+|以前の [[ヘイゼル・レイナート]]
 |-
 |[[File:Tooru Ookawa Profile Picture.jpg|100px]]
 |[[Tooru Ookawa]]
 |声優
-|以前の [[Arthur Watts]]
+|以前の [[アーサー・ワッツ]]
 |-
 |[[File:Yoku Shioya Profile Picture.jpg|100px]]
 |[[Yoku Shioya]]
 |声優
-|以前の [[Tyrian Callows]]
+|以前の [[ティリアン・キャロウズ]]
 |-
 |[[File:Rie Kugimiya Profile Picture.jpg|100px]]
 |[[Rie Kugimiya]]
 |声優
-|以前の [[Oscar Pine]]
+|以前の [[オスカー・パイン]]
 |-
 |[[File:MariyaIse.jpg|100px]]
 |[[Mariya Ise]]
 |声優
-|以前の [[Ilia Amitola]] 、 [[Lie Ren|Young Ren]]
+|以前の [[イリア・アミトーラ]] 、 [[ライ・レン|Young Ren]]
 |-
 |[[File:KenUo.jpg|100px]]
 |[[Ken Uo]]
 |声優
-|以前の [[Klein Sieben]]
+|以前の [[クライン・ジーベン]]
 |-
 |[[File:MadokaShiga.jpg|100px]]
 |[[Madoka Shiga]]
@@ -638,12 +638,12 @@ __TOC__
 |[[File:MasafumiKimura.jpg|100px]]
 |[[Masafumi Kimura]]
 |声優
-|以前の [[Ghira Belladonna]]
+|以前の [[ギラ・ベラドンナ]]
 |-
 |[[File:Megumi Hayashibara.jpg|100px]]
 |[[Megumi Hayashibara]]
 |声優
-|以前の [[Raven Branwen]]
+|以前の [[レイヴン・ブランウェン]]
 |}
 
 {{Cast and Crew Navbox}}
