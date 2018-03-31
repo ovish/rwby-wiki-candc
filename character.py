@@ -10,8 +10,7 @@ with open('j0-all.md', 'r') as f:
     strJpn = f.read()
 
 # maketranseを使う
-result =
-    strJpn.replace('Ruby Rose', 'ルビー・ローズ'
+result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
     ).replace('Weiss Schnee', 'ワイス・シュニー'
     ).replace('Blake Belladonna', 'ブレイク・ベラドンナ'
     ).replace('Yang Xiao Long', 'ヤン・シャオロン'
@@ -28,7 +27,14 @@ result =
 
     ).replace('James Ironwood', 'ジェームズ・アイアンウッド'
     ).replace('Winter Schnee', 'ウィンター・シュニー'
+    ).replace('Jason Douglas', 'ジャック・シュニー'
+    ).replace('Whitley Schnee', 'ウィットリー・シュニー'
+    ).replace('Klein Sieben', 'クライン・ジーベン'
+
     ).replace('Penny Polendina', 'ペニー・ポレンディーナ'
+    ).replace('Ciel Soleil', 'シエル・ソレイユ'
+    ).replace('Flynt Coal', 'フリント・コール'
+    ).replace('Neon Katt', 'ネオン・カット'
 
     ).replace('Summer Rose', 'サマー・ローズ'
     ).replace('Taiyang Xiao Long', 'タイヤン・シャオロン'
@@ -46,8 +52,12 @@ result =
     ).replace('Mercury Black', 'マーキュリー・ブラック'
     ).replace('Neopolitan', 'ニオポリタン'
 
+    ).replace('Leonardo Lionheart', 'レオナルド・ライオンハート'
+
     ).replace('Adam Taurus', 'アダム・トーラス'
     ).replace('White Fang Lieutenant', 'ホワイト・ファングの中尉'
+    ).replace('Ilia Amitola', 'イリア・アミトーラ'
+    ).replace('Sienna Khan', 'シエナ・カーン'
 
     ).replace('Cardin Winchester', 'カーディン・ウィンチェスター'
     ).replace('Russel Thrush', 'ラッセル・スラッシュ'
@@ -63,6 +73,36 @@ result =
     ).replace('Scarlet David', 'スカーレット・デイビッド'
     ).replace('Sage Ayana', 'セージ・アヤナ'
     ).replace('Neptune Vasilias', 'ネプチューン・ヴァシリアス'
+
+    ).replace('Arslan Altan', 'アルスラーン・アルタン'
+    ).replace('Bolin Hori', 'ボリン・オーリ'
+    ).replace('Reese Chloris', 'リース・クロリス'
+    ).replace('Nadir Shiko', 'ナディール・シコ'
+
+    ).replace('Nebula Violette', 'ネビュラ・ヴィオレッテ'
+    ).replace('Dew Gayl', 'デュー・ゲイル'
+    ).replace('Gwen Darcy', 'グウェン・ダーシー'
+    ).replace('Octavia Ember', 'オクタヴィア・エンバー'
+
+    ).replace('Brawnz Ni', 'ブロンズ・ニー'
+    ).replace('Roy Stallion', 'ロイ・スタリオン'
+    ).replace('Nolan Porfirio', 'ノーラン・ポーフィリオ'
+    ).replace('May Zedong', 'メイ・ツィートン'
+
+    ).replace('Ghira Belladonna', 'ギラ・ベラドンナ'
+    ).replace('Kali Belladonna', 'カーリー・ベラドンナ'
+
+    ).replace('Junior Xiong', 'ジュニア・ション'
+    ).replace('Melanie Malachite', 'メラニー・マラカイト'
+    ).replace('Miltia Malachite', 'ミルシャ・マラカイト'
+
+    ).replace('Zwei', 'ツヴァイ'
+    ).replace('Shopkeep', '店主'
+    ).replace('Tukson', 'タクソン'
+    ).replace('Oscar Pine', 'オスカー・パイン'
+    ).replace('Amber', 'アンバー'
+    ).replace('Vernal', 'ヴァーナル'
+    ).replace('Grimm', 'グリム'
     )
 
 
