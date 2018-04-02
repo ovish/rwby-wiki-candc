@@ -107,6 +107,7 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
 
     ).replace('Zwei', 'ツヴァイ'
     ).replace('Shopkeep', '店主'
+    ).replace('Shop Owner', '店主'
     ).replace('Tukson', 'タクソン'
     ).replace('Oscar Pine', 'オスカー・パイン'
     ).replace('Amber', 'アンバー'
@@ -125,6 +126,7 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
     ).replace('Doctor Merlot', 'ドクター・メルロー'
     ).replace('Trophy', 'トロフィー'
     ).replace('First Mate', '一等航海士'
+    ).replace('Shay D. Mann', 'シェイ・D・マン'
     )
 
 
