@@ -431,217 +431,217 @@ __TOC__
 ! scope="col" align="center" width="50%" |詳細
 |-
 |[[File:Saori Hayami Profile Picture.jpeg|100px]]
-|[[Saori Hayami]]
+|[[早見沙織]]
 |声優
 |以前の [[ルビー・ローズ]]
 |-
 |[[File:Yoko Hikasa Profile Picture.jpg|100px]]
-|[[Yōko Hikasa]]
+|[[日笠陽子]]
 |声優
 |以前の [[ワイス・シュニー]]
 |-
 |[[File:Yu Shimamura Profile Picture.jpg|100px]]
-|[[Yū Shimamura]]
+|[[嶋村侑]]
 |声優
 |以前の [[ブレイク・ベラドンナ]]
 |-
 |[[File:Ami Koshimizu Profile Picture.jpg|100px]]
-|[[Ami Koshimizu]]
+|[[小清水亜美]]
 |声優
 |以前の [[ヤン・シャオロン]]
 |-
 |[[File:Hiro Shimono.png|100px]]
-|[[Hiro Shimono]]
+|[[下野紘]]
 |声優
 |以前の [[ジョーン・アーク]]
 |-
 |[[File:Aya Suzuki Mako Mankanshoku.jpg|100px]]
-|[[Aya Suzaki]]
+|[[洲崎綾]]
 |声優
 |以前の [[ノーラ・ヴァルキリー]]、 [[メラニー・マラカイト|メラニー・マラカイト]] 、 [[ミルシャ・マラカイト]]
 |-
 |[[File:Megumi Toyoguchi.png|100px]]
-|[[Megumi Toyoguchi]]
+|[[豊口めぐみ]]
 |声優
 |Volume 1、2、4 の[[ピュラ・ニコス]]、[[カーリー・ベラドンナ]].
 |-
 |[[File:Soma Saito.jpg|100px]]
-|[[Sōma Saitō]]
+|[[斉藤壮馬]]
 |声優
 |以前の [[ライ・レン]]
 |-
 |[[File:Shizuka Itō Profilepicture.jpg|100px]]
-|[[Shizuka Itō]]
+|[[伊藤静]]
 |声優
 |以前の [[ココ・アデル]] 、 Volume 3の[[ピュラ・ニコス]]
 |-
 |[[File:Kazuhiko Inoue.png|100px]]
-|[[Kazuhiko Inoue]]
+|[[井上和彦]]
 |声優
 |以前の [[オズピン]]
 |-
 |[[File:Masumi Asano.jpg|100px]]
-|[[Masumi Asano]]
+|[[浅野真澄]]
 |声優
 |以前の [[グリンダ・グッドウィッチ]] 、 [[Minor Characters#ディアリー|ディアリー]]
 |-
 |[[File:Masaki Terasoma Profilepicture.jpg|100px]]
-|[[Masaki Terasoma]]
+|[[てらそままさき]]
 |声優
 |以前の [[ジェームズ・アイアンウッド]]
 |-
 |[[File:Subaru Kimura.jpg|100px]]
-|[[Subaru Kimura]]
+|[[木村昴]]
 |声優
 |以前の [[カーディン・ウィンチェスター]]
 |-
 |[[File:Megumi Han.jpg|100px]]
-|[[Megumi Han]]
+|[[潘めぐみ]]
 |声優
 |以前の [[ペニー・ポレンディーナ]] 、 [[ヴェルヴェット・スカーラティーナ]]
 |-
 |[[File:Shinichiro Miki.jpg|100px]]
-|[[Shinichiro Miki]]
+|[[三木眞一郎]]
 |声優
 |以前の [[ローマン・トーチウィック]]
 |-
 |[[File:Yuuko Kaida Profile Picture.png|100px]]
-|[[Yūko Kaida]]
+|[[甲斐田裕子]]
 |声優
 |以前の [[シンダー・フォール]]
 |-
 |[[File:Tomoaki Maeno Profile Picture.png|100px]]
-|[[Tomoaki Maeno]]
+|[[前野智昭]]
 |声優
 |以前の [[サン・ウーコン]]
 |-
 |[[File:Yoshiki Nakajima Profilepicture.jpg|100px]]
-|[[Yoshiki Nakajima]]
+|[[中島ヨシキ]]
 |声優
 |以前の [[ネプチューン・ヴァシリアス]]
 |-
 |[[File:Hikaru Midorikawa Profilepicture.jpg|100px]]
-|[[Hikaru Midorikawa]]
+|[[緑川光]]
 |声優
 |以前の [[マーキュリー・ブラック]]
 |-
 |[[File:Marina Inoue Profilepicture.jpg|100px]]
-|[[Marina Inoue]]
+|[[井上麻里奈]]
 |声優
 |以前の [[エメラルド・サストライ]] 、 [[ウィットリー・シュニー]]
 |-
 |[[File:Yūichi Nakamura Profilepicture.jpg|100px]]
-|[[Yūichi Nakamura]]
+|[[中村悠一]]
 |声優
 |以前の [[アダム・トーラス]]
 |-
 |[[File:Kikuko Inoue.jpg|100px]]
-|[[Kikuko Inoue]]
+|[[井上喜久子]]
 |声優
 |以前の [[セイラム]]
 |-
 |[[File:YuichiKarasuma.png|100px]]
-|[[Yuichi Karasuma]]
+|[[烏丸祐一]]
 |声優
 |以前の [[バーソロミュー・ウーブレック]]
 |-
 |[[File:SoichiAbe.png|100px]]
-|[[Soichi Abe]]
+|[[あべそういち]]
 |声優
 |以前の [[ピーター・ポート]] 、 [[ダヴ・ブロンズウィング]]
 |-
 |[[File:Kenyu Horiuchi.jpg|100px]]
-|[[Kenyu Horiuchi]]
+|[[堀内賢雄]]
 |声優
 |以前の [[タイヤン・シャオロン]]
 |-
 |[[File:Hiroaki Hirata.jpg|100px]]
-|[[Hiroaki Hirata]]
+|[[平田広明]]
 |声優
 |以前の [[クロウ・ブランウェン]]
 |-
 |[[File:Ayako Kawasumi.jpg|100px]]
-|[[Ayako Kawasumi]]
+|[[川澄綾子]]
 |声優
 |以前の [[ウィンター・シュニー]] 、 [[アンバー]]
 |-
 |[[File:Ami Naito.jpg|100px]]
-|[[Ami Naito]]
+|[[内藤有海]]
 |声優
 |以前の [[アルスラーン・アルタン]] 、 [[シエル・ソレイユ]]
 |-
 |[[File:Chisato Mori.jpg|100px]]
-|[[Chisato Mori]]
+|[[森千早都]]
 |声優
 |以前の [[デュー・ゲイル]] 、 [[リース・クロリス]]
 |-
 |[[File:Eiji Takeuchi.jpg|100px]]
-|[[Eiji Takeuchi]]
+|[[竹内栄治]]
 |声優
 |以前の [[ナディール・シコ]]
 |-
 |[[File:Konomi Fujimora.jpg|100px]]
-|[[Konomi Fujimura]]
+|[[藤村鼓乃美]]
 |声優
 |以前の [[ネオン・カット]]、 [[グウェン・ダーシー]] 、 [[ニオポリタン]]
 |-
 |[[File:Kijima ryuichi.jpg|100px]]
-|[[Ryuichi Kijima]]
+|[[木島隆一]]
 |声優
 |以前の [[ブロンズ・ニー]] 、 [[セージ・アヤナ]]
 |-
 |[[File:Tooru Sakurai.jpg|100px]]
-|[[Tooru Sakurai]]
+|[[櫻井トオル]]
 |声優
 |以前の [[フリント・コール]]
 |-
 |[[File:KentaMiyakeProfile.jpg|100px]]
-|[[Kenta Miyake]]
+|[[三宅健太]]
 |声優
 |以前の [[タクソン]]
 |-
 |[[File:Akio Ootsuka Profile Picture.jpg|100px]]
-|[[Akio Ōtsuka]]
+|[[大塚明夫]]
 |声優
 |以前の [[ヘイゼル・レイナート]]
 |-
 |[[File:Tooru Ookawa Profile Picture.jpg|100px]]
-|[[Tooru Ookawa]]
+|[[大川透]]
 |声優
 |以前の [[アーサー・ワッツ]]
 |-
 |[[File:Yoku Shioya Profile Picture.jpg|100px]]
-|[[Yoku Shioya]]
+|[[塩屋翼]]
 |声優
 |以前の [[ティリアン・キャロウズ]]
 |-
 |[[File:Rie Kugimiya Profile Picture.jpg|100px]]
-|[[Rie Kugimiya]]
+|[[釘宮理恵]]
 |声優
 |以前の [[オスカー・パイン]]
 |-
 |[[File:MariyaIse.jpg|100px]]
-|[[Mariya Ise]]
+|[[伊瀬茉莉也]]
 |声優
 |以前の [[イリア・アミトーラ]] 、 [[ライ・レン|幼いレン]]
 |-
 |[[File:KenUo.jpg|100px]]
-|[[Ken Uo]]
+|[[魚建]]
 |声優
 |以前の [[クライン・ジーベン]]
 |-
 |[[File:MadokaShiga.jpg|100px]]
-|[[Madoka Shiga]]
+|[[志賀麻登佳]]
 |声優
 |以前の [[ジャック・シュニー]]
 |-
 |[[File:MasafumiKimura.jpg|100px]]
-|[[Masafumi Kimura]]
+|[[木村雅史]]
 |声優
 |以前の [[ギラ・ベラドンナ]]
 |-
 |[[File:Megumi Hayashibara.jpg|100px]]
-|[[Megumi Hayashibara]]
+|[[林原めぐみ]]
 |声優
 |以前の [[レイヴン・ブランウェン]]
 |}
