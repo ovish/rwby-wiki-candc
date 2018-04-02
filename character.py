@@ -20,6 +20,9 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
     ).replace('Pyrrha Nikos', 'ピュラ・ニコス'
     ).replace('Lie Ren', 'ライ・レン'
 
+    ).replace('Young Ren', '幼いレン'
+    ).replace('Young Nora', '幼いノーラ'
+
     ).replace('Ozpin', 'オズピン'
     ).replace('Glynda Goodwitch', 'グリンダ・グッドウィッチ'
     ).replace('Peter Port', 'ピーター・ポート'
@@ -95,8 +98,12 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
     ).replace('Kali Belladonna', 'カーリー・ベラドンナ'
 
     ).replace('Junior Xiong', 'ジュニア・ション'
+    ).replace('Melanie', 'メラニー・マラカイト'
     ).replace('Melanie Malachite', 'メラニー・マラカイト'
     ).replace('Miltia Malachite', 'ミルシャ・マラカイト'
+
+    ).replace('Li Ren', 'リー・レン'
+    ).replace('An Ren', 'アン・レン'
 
     ).replace('Zwei', 'ツヴァイ'
     ).replace('Shopkeep', '店主'
@@ -105,6 +112,19 @@ result = strJpn.replace('Ruby Rose', 'ルビー・ローズ'
     ).replace('Amber', 'アンバー'
     ).replace('Vernal', 'ヴァーナル'
     ).replace('Grimm', 'グリム'
+    ).replace('Reporter', 'リポーター'
+    ).replace('Businesswoman', '女性実業家'
+    ).replace('Businessman', '男性実業家'
+    ).replace('Captain', '船長'
+    ).replace('Deery', 'ディアリー'
+    ).replace('Detective', '刑事'
+    ).replace('Henry Marigold', 'ヘンリー・マリーゴールド'
+    ).replace('Yuma', 'ユマ'
+    ).replace('Mata', 'マタ'
+    ).replace('Huntsman', 'ハンター'
+    ).replace('Doctor Merlot', 'ドクター・メルロー'
+    ).replace('Trophy', 'トロフィー'
+    ).replace('First Mate', '一等航海士'
     )
 
 
