@@ -17,8 +17,8 @@ __TOC__
 |-
 |[[File:Monty4ec4fdb8ab6ca.jpg|100px]]
 |[[Monty Oum]] †
-|原作者、前監督、 動画、 脚本、 声優
-|''RWBY''の原作者、 以前の[[ライ・レン]]の声
+|原作、前監督、 動画、 脚本、 声優
+|''RWBY''の原作、 以前の[[ライ・レン]]の声
 |-
 |[[File:Miles4efe80e86f95ft.jpg|100px]]
 |[[Miles Luna]]
@@ -32,23 +32,23 @@ __TOC__
 |-
 |[[File:MattHullum.png|100px]]
 |[[Matt Hullum]]
-|制作責任者
+|制作責任
 |Rooster TeethのCEO
 |-
 |[[File:Burnie.png|100px]]
 |[[Burnie Burns]]
-|制作責任者 、 声優
-|Rooster Teethの製作監督、 [[Vale Police Department|Detective #1]] 、 [[タイヤン・シャオロン]]
+|制作責任 、 声優
+|Rooster Teethの製作監修、 [[Vale Police Department|刑事 #1]] 、 [[タイヤン・シャオロン]]
 |-
 |[[File:Guest4fd7c9c774fa8.jpg|100px]]
 |[[Kathleen Zuelch]]
-|制作責任者
-|制作責任者 、 [[グリンダ・グッドウィッチ]]
+|制作責任
+|制作責任 、 [[グリンダ・グッドウィッチ]]
 |-
 |[[File:RWBY_Torchwick_2_800_Silly_1.jpg|100px]]
 |[[Gray G. Haddock]]
-|制作責任者 、 声優
-|制作責任者 、 [[ローマン・トーチウィック]]
+|制作責任 、 声優
+|制作責任 、 [[ローマン・トーチウィック]]
 |-
 |[[File:Shanenewville.jpg|100px]]
 |[[Shane Newville]]
@@ -163,7 +163,7 @@ __TOC__
 |[[File:Margaret Tominey.PNG|100px]]
 |[[Maggie Tominey]]
 |声優
-|[[メラニー・マラカイト|Melanie]] 、 [[ミルシャ・マラカイト]] 、 [[Minor Characters#Deery|Deery]]
+|[[メラニー・マラカイト|メラニー・マラカイト]] 、 [[ミルシャ・マラカイト]] 、 [[Minor Characters#ディアリー|ディアリー]]
 |-
 |[[File:Shannon.png|100px]]
 |[[Shannon McCormick]]
@@ -188,7 +188,7 @@ __TOC__
 |[[File:Joel Heyman.jpg|100px]]
 |[[Joel Heyman]]
 |声優
-|[[バーソロミュー・ウーブレック]] 、 Detective #2
+|[[バーソロミュー・ウーブレック]] 、 [[刑事 #2]]
 |-
 |[[File:Ah Michael.jpg|100px]]
 |[[Michael Jones]]
@@ -233,7 +233,7 @@ __TOC__
 |[[File:Neath Oum.jpg|100px]]
 |[[Neath Oum]]
 |声優
-|以前の ライ・レン
+|以前の [[ライ・レン]]
 |-
 |[[File:Jen-taylor.png|100px]]
 |[[Jen Taylor]]
@@ -303,7 +303,7 @@ __TOC__
 |[[File:Alejandro Saab Profile.jpg|100px]]
 |[[Alejandro Saab|Alej、ro Saab]]
 |声優
-|[[Minor Characters#Henry Marigold|Henry Marigold]] 、 the [[Minor Characters#Dying Huntsman|Dying Huntsman]]
+|[[Minor Characters#ヘンリー・マリーゴールド|ヘンリー・マリーゴールド]] 、[[Minor Characters#Dying ハンター|瀕死のハンター]]
 |-
 |[[File:HowardWang.png|100px]]
 |[[Howard Wang]]
@@ -313,7 +313,7 @@ __TOC__
 |[[File:JasonDouglas.jpg|100px]]
 |[[ジャック・シュニー]]
 |声優
-|[[Jacques Schnee]]
+|[[ジャック・シュニー]]
 |-
 |[[File:Tara Platt.jpg|100px]]
 |[[Tara Platt]]
@@ -333,12 +333,12 @@ __TOC__
 |[[File:Mike McFarland.jpg|100px]]
 |[[Mike McFarland|Mike McFarl、]]
 |声優
-|[[Minor Characters#The Albains|Fennec Albain]]
+|[[Minor Characters#The Albains|フェネック・アルベイン]]
 |-
 |[[File:DerekMears.jpg|100px]]
 |[[Derek Mears]]
 |声優
-|[[Minor Characters#The Albains|Corsac Albain]]
+|[[Minor Characters#The Albains|コサック・アルベイン]]
 |-
 |[[File:Cherami.jpg|100px]]
 |[[Cherami Leigh Kuehn]]
@@ -348,67 +348,67 @@ __TOC__
 |[[File:Scott Frerichs.jpg|100px]]
 |[[Scott Frerichs]]
 |声優
-|[[Minor Characters#Angry Businessman and Businessman|Businessman]]、 [[Minor Characters#Mata and Worried Mother|Mata]] 、 [[Minor Characters#Three Boys|Tall Boy]]
+|[[Minor Characters#Angry 男性実業家 and 男性実業家|男性実業家]]、 [[Minor Characters#マタ and Worried Mother|マタ]] 、[[背が高い男の子]]
 |-
 |[[File:Nick Landis.jpg|100px]]
 |[[Nick Landis|Nick L、is]]
 |声優
-|[[Minor Characters#Angry Businessman and Businessman|Angry Businessman]]、 [[Minor Characters#Ramen Shop Owner|Ramen Shop Owner]] 、 [[Minor Characters #Yuma|Yuma]]
+|[[Minor Characters#Angry 男性実業家 and 男性実業家|怒る男性実業家]]、 [[Minor Characters#Ramen Shop Owner|ラーメン屋の店主]]、 [[Minor Characters #ユマ|ユマ]]
 |-
 |[[File:Kaiji Tang 2.jpg|100px]]
 |[[Kaiji Tang]]
 |声優
-|[[Minor Characters#Li Ren|Li Ren]]
+|[[Minor Characters#リー・レン|リー・レン]]
 |-
 |[[File:Dawn M. Bennett.jpg|100px]]
 |[[Dawn M. Bennett]]
 |声優
-|[[Minor Characters#An Ren|An Ren]]
+|[[Minor Characters#アン・レン|アン・レン]]
 |-
 |[[File:アンバー Lee Connors.jpg|100px]]
 |[[アンバー Lee Connors]]
 |声優
-|[[ヴァーナル]]、 [[Minor Characters#Businesswoman|Businesswoman]]、 [[Minor Characters#Unnamed Reporters|Reporter 02]] 、 [[Minor Characters#Three Boys|Short Boy]]
+|[[ヴァーナル]]、 [[Minor Characters#女性実業家|女性実業家]]、 [[Minor Characters#Unnamed リポーターs|リポーター 02]] 、[[Minor Characters#Three Boys|背が低い男の子]]
 |-
 |[[File:Apphia Yu.png|100px]]
 |[[Apphia Yu]]
 |声優
-|[[ライ・レン|Young Ren]]
+|[[ライ・レン|幼いレン]]
 |-
 |[[File:Kristen McGuire.jpg|100px]]
 |[[Kristen McGuire]]
 |声優
-|[[ノーラ・ヴァルキリー|Young Nora]]
+|[[ノーラ・ヴァルキリー|幼いノーラ]]
 |-
 |[[File:Bruce Carey.jpg|100px]]
 |[[Bruce Carey]]
 |声優
-|[[Minor Characters#Captain|Captain]]
+|[[Minor Characters#船長|船長]]
 |-
 |[[File:K Ziegler.jpg|100px]]
 |[[Kendra Ziegler]]
 |声優
-|[[Minor Characters#First Mate|First Mate]]
+|[[Minor Characters#一等航海士|一等航海士]]
 |-
 |[[File:Marissa Lenti.jpg|100px]]
 |[[Marissa Lenti]]
 |声優
-|[[Minor Characters#Oscar's Aunt|Oscar's Aunt]] 、 [[Minor Characters#Three Boys|Medium Boy]]
+|[[オスカーのおじ]]、 [[Minor Characters#Three Boys|背が並の男の子]]
 |-
 |[[File:Dave fennoy.jpg|100px]]
 |[[Dave Fennoy]]
 |声優
-|[[Merlot|Doctor Merlot]]
+|[[Merlot|ドクター・メルロー]]
 |-
 |[[File:Felecia Angelle.jpg|100px]]
 |[[Felecia Angelle]]
 |声優
-|[[Minor Characters#Trophy Wife and Husband|Trophy Wife]]
+|[[Minor Characters#トロフィー Wife and Husband|トロフィー夫人]]
 |-
 |[[File:Clifford Chapin.jpg|100px]]
 |[[Clifford Chapin]]
 |声優
-|[[Minor Characters#Shay D. Mann|Shay D. Mann]]
+|[[シェイ・D・マン]]
 |-
 |[[File:Daman Mills.jpg|100px]]
 |[[Daman Mills]]
@@ -458,7 +458,7 @@ __TOC__
 |[[File:Aya Suzuki Mako Mankanshoku.jpg|100px]]
 |[[Aya Suzaki]]
 |声優
-|以前の [[ノーラ・ヴァルキリー]]、 [[メラニー・マラカイト|Melanie]] 、 [[ミルシャ・マラカイト]]
+|以前の [[ノーラ・ヴァルキリー]]、 [[メラニー・マラカイト|メラニー・マラカイト]] 、 [[ミルシャ・マラカイト]]
 |-
 |[[File:Megumi Toyoguchi.png|100px]]
 |[[Megumi Toyoguchi]]
@@ -483,7 +483,7 @@ __TOC__
 |[[File:Masumi Asano.jpg|100px]]
 |[[Masumi Asano]]
 |声優
-|以前の [[グリンダ・グッドウィッチ]] 、 [[Minor Characters#Deery|Deery]]
+|以前の [[グリンダ・グッドウィッチ]] 、 [[Minor Characters#ディアリー|ディアリー]]
 |-
 |[[File:Masaki Terasoma Profilepicture.jpg|100px]]
 |[[Masaki Terasoma]]
@@ -623,7 +623,7 @@ __TOC__
 |[[File:MariyaIse.jpg|100px]]
 |[[Mariya Ise]]
 |声優
-|以前の [[イリア・アミトーラ]] 、 [[ライ・レン|Young Ren]]
+|以前の [[イリア・アミトーラ]] 、 [[ライ・レン|幼いレン]]
 |-
 |[[File:KenUo.jpg|100px]]
 |[[Ken Uo]]
@@ -633,7 +633,7 @@ __TOC__
 |[[File:MadokaShiga.jpg|100px]]
 |[[Madoka Shiga]]
 |声優
-|以前の [[Jacques Schnee]]
+|以前の [[ジャック・シュニー]]
 |-
 |[[File:MasafumiKimura.jpg|100px]]
 |[[Masafumi Kimura]]
@@ -645,5 +645,3 @@ __TOC__
 |声優
 |以前の [[レイヴン・ブランウェン]]
 |}
-
-{{Cast and Crew Navbox}}
